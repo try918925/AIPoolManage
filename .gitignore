@@ -1,0 +1,8 @@
+# IDE
+.idea/
+
+# Config (contains secrets)
+configs/config.yaml
+
+# Binary
+server.exe
